@@ -1,0 +1,10 @@
+Package: shorts
+Version: 0.1-1.1
+Architecture: all
+Maintainer: Denis Kisel <denis.kisel92@gmail.com>
+Installed-Size: 15
+Depends: php7.2-cli, git, apache2
+Section: unknown
+Priority: optional
+Homepage: digital-elephant.com.ua
+Description: Short commands for popular usefull commands for web development
